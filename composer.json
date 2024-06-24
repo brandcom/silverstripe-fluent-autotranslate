@@ -22,7 +22,7 @@
     "php": ">=7.1",
     "ext-json": "*",
     "ext-intl": "*",
-    "silverstripe/framework": "^4"
+    "silverstripe/framework": "^5"
   },
   "extra": {
     "installer-name": "silverstripe-fluent-autotranslate",
