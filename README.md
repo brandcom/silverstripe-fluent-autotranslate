@@ -8,7 +8,16 @@ Module for auto translation using Google Cloud Translation for Silverstripe with
 - ext-json
 
 ## Installation
-`composer require brandcom/silverstripe-fluent-autotranslate`
+```
+"repositories": [
+    {
+    "type": "git",
+    "url": "git@github.com:brandcom/silverstripe-fluent-autotranslate.git"
+    }
+],
+```
+
+`composer require lever51/silverstripe-fluent-autotranslate:dev-ss5`
 
 ## Setup
 Define the API key for the Google Cloud Translation API like this:
