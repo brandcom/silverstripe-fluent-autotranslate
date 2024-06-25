@@ -2,8 +2,8 @@
 Module for auto translation using Google Cloud Translation for Silverstripe with Fluent.
 
 ## Requirements
-- [Silverstripe](https://github.com/silverstripe/silverstripe-framework) ^5
-- [Fluent](https://github.com/tractorcow-farm/silverstripe-fluent) >=7
+- [Silverstripe](https://github.com/silverstripe/silverstripe-framework) ^4 || ^5
+- [Fluent](https://github.com/tractorcow-farm/silverstripe-fluent) >=4
 - PHP >= 8
 - ext-json
 
@@ -17,7 +17,7 @@ Module for auto translation using Google Cloud Translation for Silverstripe with
 ],
 ```
 
-`composer require lever51/silverstripe-fluent-autotranslate:dev-ss5`
+`composer require lever51/silverstripe-fluent-autotranslate:dev-master`
 
 ## Setup
 Define the API key for the Google Cloud Translation API like this:
