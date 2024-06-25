@@ -17,7 +17,7 @@ Module for auto translation using Google Cloud Translation for Silverstripe with
 ],
 ```
 
-`composer require lever51/silverstripe-fluent-autotranslate:dev-master`
+`composer require level51/silverstripe-fluent-autotranslate:dev-master`
 
 ## Setup
 Define the API key for the Google Cloud Translation API like this:
